@@ -2,7 +2,7 @@
 
 ScholarMind, akademik literatürdeki "bilgi aşırı yüklemesi" (information overload) problemini hafifletmek amacıyla geliştirilmiş, derin öğrenme tabanlı bir hibrit öneri sistemi prototipidir. Proje, makalelerin anlamsal derinliğini analiz ederek araştırmacılara en alakalı yayınları kişiselleştirilmiş bir deneyimle sunar.
 
-
+Streamlit arayüz: https://makaleonerisistemi-d3v4abrbbtnmzjurcherxz.streamlit.app
 
 ##  Proje Genel Bakış
 Bilimsel yayınların üstel artışı, araştırmacıların kendi alanlarındaki en güncel ve alakalı çalışmaları bulmasını zorlaştırmaktadır. ScholarMind, geleneksel anahtar kelime tabanlı yöntemlerin (TF-IDF) sınırlılıklarını aşmak için Sentence-BERT (SBERT) mimarisini kullanarak metinleri anlamsal bir vektör uzayında modeller.
